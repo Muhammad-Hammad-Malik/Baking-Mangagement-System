@@ -1,0 +1,4 @@
+﻿  Testing.cpp
+D:\VS\source\repos\BankingSystem\BankingSystem\Testing.cpp(585,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\VS\source\repos\BankingSystem\BankingSystem\Testing.cpp(1023,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BankingSystem.vcxproj -> D:\VS\source\repos\BankingSystem\x64\Debug\BankingSystem.exe
